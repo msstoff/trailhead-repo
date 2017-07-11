@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 306,
-            "modifiedTime": 1499801721000,
-            "changeTime": 1499801721000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "size": 340,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -49,11 +49,10 @@
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1499801872000,
-            "changeTime": 1499801872000,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "size": 238,
+            "modifiedTime": 1499803120000,
+            "changeTime": 1499803120000,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -856,87 +855,9 @@
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "size": 272,
-            "modifiedTime": 1499801999000,
+            "modifiedTime": 1499803089000,
             "changeTime": 1499801510000,
             "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1499801999000,
-            "changeTime": 1499801999000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
-        }
-    ],
-    [
-        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-        {
-            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
-            "isDirectory": false,
-            "size": 246,
-            "modifiedTime": 1499801422000,
-            "changeTime": 1499801422000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-        {
-            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
-            "isDirectory": false,
-            "size": 91,
-            "modifiedTime": 1499801510000,
-            "changeTime": 1499801510000,
-            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-        {
-            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
-            "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1499801422000,
-            "changeTime": 1499801422000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-        {
-            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
-            "isDirectory": false,
-            "size": 45,
-            "modifiedTime": 1499801422000,
-            "changeTime": 1499801422000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-        {
-            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
-            "isDirectory": false,
-            "size": 50,
-            "modifiedTime": 1499801422000,
-            "changeTime": 1499801422000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -1035,27 +956,27 @@
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
-            "modifiedTime": 1499801960000,
+            "modifiedTime": 1499803333000,
             "changeTime": 1499801960000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1499801847000,
             "changeTime": 1499801847000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1065,36 +986,36 @@
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 334,
-            "modifiedTime": 1499801920000,
-            "changeTime": 1499801920000,
-            "contentHash": "8bc7614f82244bbe832f4be0cf07d5c8c2171640"
+            "size": 403,
+            "modifiedTime": 1499803296000,
+            "changeTime": 1499803296000,
+            "contentHash": "2c976a59a077903933b7640fb9a074b876de8ec0"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1499801872000,
             "changeTime": 1499801872000,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1499801960000,
             "changeTime": 1499801960000,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1104,114 +1025,335 @@
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1499801938000,
-            "changeTime": 1499801938000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+            "size": 396,
+            "modifiedTime": 1499803333000,
+            "changeTime": 1499803333000,
+            "contentHash": "9c39c3fa726c9829d90d07be9068192cb6723b02"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1499801872000,
             "changeTime": 1499801872000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1499801872000,
             "changeTime": 1499801872000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 120,
             "modifiedTime": 1499801828000,
             "changeTime": 1499801828000,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1499801781000,
             "changeTime": 1499801781000,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1499801847000,
             "changeTime": 1499801847000,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1499801781000,
             "changeTime": 1499801781000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1499801781000,
             "changeTime": 1499801781000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1499801781000,
             "changeTime": 1499801781000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 480856,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "2e36ead355db885f91bc4ac6e7a7591a04dd469f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 899,
+            "modifiedTime": 1499803433000,
+            "changeTime": 1499803433000,
+            "contentHash": "97f0dbc4894505925705dd8831b259ef1de42368"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "size": 91,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "14baa28d7d740e80c11f4d90a3c1393c1c758ca5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 331,
+            "modifiedTime": 1499803376000,
+            "changeTime": 1499803376000,
+            "contentHash": "1700f51bfdedcbc89f02da586ab23589573779a7"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "2fc590293bdaf77f8532618b7deac1f0e1e0a905",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "size": 64,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1499803089000,
+            "changeTime": 1499803089000,
+            "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap",
+        {
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountMap",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1499803433000,
+            "changeTime": 1499803089000,
+            "contentHash": "c4dc0bc29ea6b55aed49be761ac539edd5f3bdea",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountsLoaded",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountsLoaded",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1499803230000,
+            "changeTime": 1499803230000,
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 101,
+            "modifiedTime": 1499803230000,
+            "changeTime": 1499803230000,
+            "contentHash": "3d043fa3d281fd6d59cc86c1f79350f15eb5bbf8"
+        }
+    ],
+    [
+        "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mstofferahn/workspace/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1499803120000,
+            "changeTime": 1499803120000,
+            "contentHash": "edcfc45ce61428d47ff72a17793d818d9b9db151"
         }
     ]
 ]
